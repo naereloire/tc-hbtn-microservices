@@ -9,6 +9,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/0x00" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x02/serverless" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/1" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/4" />

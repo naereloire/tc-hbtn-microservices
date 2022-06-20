@@ -1,0 +1,5 @@
+O que é Arquitetura Serverless
+O que é Function as a service (FaaS) ?
+Quais são os benefícios de usar arquitetura Serverless ?
+O que é Cloud Computing (Computação em Nuvem) ? E quais são seu benefícios ?
+Quais são as principais diferenças entre Arquitetura Monolítica, Microsserviços e Serverless ?
